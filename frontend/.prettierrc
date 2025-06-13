@@ -1,0 +1,10 @@
+{
+  "printWidth": 120,
+  "singleQuote": true,
+  "semiColons": true,
+  "trailingComma": "es5",
+  "jsxSingleQuote": false,
+  "tabWidth": 4,
+  "endOfLine": "auto",
+  "editorconfig": true
+}
